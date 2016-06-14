@@ -15,6 +15,8 @@ namespace WindowsFormsAula1
         public Form1()
         {
             InitializeComponent();
+            MessageBox.Show("Diogo Steinke Deconto");
+
         }
     }
 }
